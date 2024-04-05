@@ -10,11 +10,12 @@ This will become the ultimate roadmap for Backend Software Engineers covering th
   - What tools can you use?
   - How to use git?
   - Common Workflows
-- [Search](https://github.com/Suneeh/Roadmap/blob/main/Readme/2_Search.md)
+- [Searching the web](https://github.com/Suneeh/Roadmap/blob/main/Readme/2_Search.md)
   - Google
   - YouTube
   - Copilot / AI
   - GitHubs
+  - Documentation
   - StackOverflow
 - c# / .NET
   - C#12
