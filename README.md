@@ -4,13 +4,13 @@ Hi 👋🏽
 
 This will become the ultimate roadmap for Backend Software Engineers covering the following points:
 
-- [Version Control](https://github.com/Suneeh/Roadmap/blob/main/VersionControl/VersionControl.md)
+- [Version Control](https://github.com/Suneeh/Roadmap/blob/main/Readme/1_VersionControl.md)
   - What is Version Control?
   - Why should you use Version Control?
   - What tools can you use?
   - How to use git?
   - Common Workflows
-- Search
+- [Search](https://github.com/Suneeh/Roadmap/blob/main/Readme/2_Search.md)
   - Google
   - YouTube
   - Copilot / AI
