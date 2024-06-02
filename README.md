@@ -17,7 +17,7 @@ This will become the ultimate roadmap for Backend Software Engineers covering th
   - GitHubs
   - Documentation
   - StackOverflow
-- c# / .NET
+- [C#](https://github.com/Suneeh/Roadmap/blob/main/Readme/3_Csharp.md) / .NET
   - C#12
   - .NET8
   - .NET CLI
