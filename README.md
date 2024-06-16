@@ -17,23 +17,18 @@ This will become the ultimate roadmap for Backend Software Engineers covering th
   - GitHubs
   - Documentation
   - StackOverflow
-- [C#](https://github.com/Suneeh/Roadmap/blob/main/Readme/3_Csharp.md) / .NET
+- [C#](https://github.com/Suneeh/Roadmap/blob/main/Readme/3_Csharp.md)
   - C#12
+- [.Net](https://github.com/Suneeh/Roadmap/blob/main/Readme/4_DotNet.md) (Web Development)
   - .NET8
   - .NET CLI
-  - .NET Aspire?
-- Basic .NET concetps
   - Minimal APIs
-  - Web APIs
   - Routing
-  - Middleware
-  - Filter
-  - Validation
+  - Filter / Validation
   - Configuration
   - Dependency Injection
   - Authentication
   - Authorization
-  - CRUD, SOLID, DRY, YAGNI, KISS
 - SQL
   - Syntax
 - ORMs
