@@ -99,12 +99,6 @@ admin.AddEndpointFilter((context, next) =>
 });
 
 user.MapGet("/", () => "Hello!");
-
-admin.MapGet("/", () => "Hi!").AddEndpointFilter((context, next) =>
-{
-    app.Logger.LogInformation("Admin route was called.");
-    return next(context);
-});
 ```
 
 This helps with organizing different paths and endpoints, as well as reducing duplication. Also this allows you to cluster your endpoints in folders or files outside the Program.cs without losing track of a file.
